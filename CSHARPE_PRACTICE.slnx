@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="addressBook/addressBook.csproj" />
+  <Project Path="game_map/game_map.csproj" />
+  <Project Path="listOfPeople/listOfPeople.csproj" />
+  <Project Path="monthNames/monthNames.csproj" />
+  <Project Path="multiplicationTable/multiplicationTable.csproj" />
+  <Project Path="oop_classes_example/oop_classes_example.csproj" />
+  <Project Path="oop_classes_record_example/oop_classes_record_example.csproj" />
+  <Project Path="progres_sandbox/progres_sandbox.csproj" />
+  <Project Path="sandbox_coding/sandbox_coding.csproj" />
+  <Project Path="sortingAlgorithms/sortingAlgorithms.csproj" />
+  <Project Path="yearlyTransportPlan/yearlyTransportPlan.csproj" />
+</Solution>
